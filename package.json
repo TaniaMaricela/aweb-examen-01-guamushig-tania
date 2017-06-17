@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/TaniaMaricela/aweb-examen-01-guamushig-tania/issues"
   },
-  "homepage": "https://github.com/TaniaMaricela/aweb-examen-01-guamushig-tania#readme"
+  "homepage": "https://github.com/TaniaMaricela/aweb-examen-01-guamushig-tania#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "http-server": "^0.10.0",
+    "save": "^2.3.1"
+  },
+  "devDependencies": {}
 }
